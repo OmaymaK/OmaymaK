@@ -27,8 +27,6 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
 - 👯 I’m looking to collaborate on any project.
 
 - :mailbox:How to reach me: omaymakorbi100@gmail.com
